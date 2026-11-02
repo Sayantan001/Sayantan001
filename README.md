@@ -9,7 +9,11 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-sayantanpanda.in-00A8E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sayantanpanda.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayantan%20Panda-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/sayantan-panda/)
 [![Email](https://img.shields.io/badge/Email-sayantanpanda123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayantanpanda123@gmail.com)
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=wGkxHxUAAAAJ&hl=en)
+[![Scopus](https://img.shields.io/badge/Scopus-Author%20ID%2058834830400-E9711C?style=for-the-badge)](https://www.scopus.com/authid/detail.uri?authorId=58834830400)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4051--6273-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4051-6273)
 
 </div>
