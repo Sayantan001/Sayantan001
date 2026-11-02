@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sayantan%20Panda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MS%20Mobile%20Robotics%20%40%20University%20of%20Bonn&descAlignY=60&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00A8E8&center=true&vCenter=true&width=760&lines=Robotics+Engineer+%7C+R%26D+%7C+;ROS2+%C2%B7+SLAM+%C2%B7+Navigation+%C2%B7+Localization;Building+robots+from+hardware+to+software;Looking+for+a+HiWi+%2F+internship+in+robotics" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00A8E8&center=true&vCenter=true&width=760&lines=Robotics+Engineer+%7C+R%26D;ROS2+%C2%B7+SLAM+%C2%B7+Navigation+%C2%B7+Localization;Building+robots+from+hardware+to+software;Looking+for+a+HiWi+%2F+internship+in+robotics" alt="Typing animation" />
 </a>
 
 <br/>
